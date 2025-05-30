@@ -1,6 +1,4 @@
 # 🌸 White Flower Web Project
----
-
 ## 🌐 Live Demo
 👉 [Visit the Website](https://whiteflower2.netlify.app/)
 
