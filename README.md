@@ -50,13 +50,6 @@ This is a creative front-end project that showcases a beautifully styled flower 
 
 ---
 
-## 📸 Preview
-
-> *(You can add a screenshot or gif preview here if you want)*  
-> `![White Flower Preview](preview.png)`
-
----
-
 ## 🧠 Inspiration
 
 Inspired by the idea of pushing the limits of what CSS can do visually—without JavaScript.
