@@ -1,31 +1,36 @@
 🌸 White Flower Web Project Overview
-White Flower is a creative front-end project that showcases a beautifully styled flower built entirely with HTML and CSS—with no JavaScript involved.
+
+This project is a creative front-end website that showcases a beautifully styled flower made entirely using HTML and CSS. No JavaScript is used.
 
 🔧 Technologies Used
+
 HTML & CSS
-The flower, leaves, and background are created using simple HTML elements and styled meticulously with CSS techniques like positioning, gradients, and transforms.
+All elements such as the flower, leaves, stem, and background are built using HTML tags and styled with CSS. No external libraries or JavaScript are involved.
 
 ✨ Key Features
+
 Pure CSS Art
-Every petal, leaf, and stem is crafted using CSS shapes, gradients, shadows, and transformations.
+Every part of the flower is crafted using advanced CSS techniques including shapes, gradients, shadows, and transforms.
 
 Responsive & Lightweight
-With no JavaScript or heavy assets, the site loads quickly and runs smoothly on all devices.
+The website loads fast and performs well across all screen sizes because it uses no JavaScript and minimal assets.
 
 Creative Layout & Aesthetics
-A visually appealing design with attention to symmetry, balance, and color harmony.
+Focused on symmetry, color harmony, and visual balance to create an elegant, artistic experience.
 
 🎯 Ideal For
-Beginners learning HTML & CSS layout and styling
 
-Front-end developers practicing CSS-based visual design
+Beginners who want to practice HTML and CSS layout and styling.
 
-Creative coders exploring what’s possible with pure CSS art
+Front-end developers experimenting with CSS-based design.
+
+Creative coders exploring what's possible using only CSS.
 
 ✅ What You'll Learn
-How to use <div> and <span> creatively
 
-How to apply CSS transforms, border-radius, gradients, and positioning to create complex visuals
+How to creatively use basic elements like <div> and <span>.
 
-How to structure clean HTML for a non-interactive, visually driven project
+How to apply CSS transforms, gradients, border-radius, positioning, and more.
+
+How to organize semantic and clean HTML for visual-only web projects.
 
